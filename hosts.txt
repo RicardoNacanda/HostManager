@@ -1,2 +1,2 @@
-1 	120.27.250.55 	Aliyun01	Aliyun01		info
-2 	120.79.44.207 	test		qweqweqwe		info
+1 	120.27.xxx.xxx 	test01	xxxxx		info
+2 	120.79.xxx.xxx 	test02	xxxxx		info
