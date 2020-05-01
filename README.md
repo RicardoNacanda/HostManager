@@ -2,7 +2,7 @@
 tiny C/C++ program to manage hosts
 这是一个简单到不能再简单的主机管理程序
 几天前老师给的任务，中间耽搁了一天，寻思着先上传个版本看看吧。
-
+![1](https://imgur.com/2nB136J.png)
 一 功能
 	管理多台主机,基于C/C++,通过ssh,支持cmd&sftp
 1.简单的主机分组，指定部分主机或主机小组来执行当前的cmd
